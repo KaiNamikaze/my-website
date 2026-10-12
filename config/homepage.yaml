@@ -28,7 +28,7 @@ homepage:
       variant: default
       enabled: true
 
-    - name: Talks
+    - name: Article
       variant: default # default | card
       enabled: true
 
